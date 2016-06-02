@@ -1,0 +1,15 @@
+name = Yahook 
+description = module used to add/change behavior of other options.
+package = Views
+dependencies[] = views
+dependencies[] = entity
+dependencies[] = ctools
+dependencies[] = field_ui
+core = 7.x
+
+
+version = "7.x-1.0"
+core = "7.x"
+project = "yahook"
+datestamp = "1438114140"
+
