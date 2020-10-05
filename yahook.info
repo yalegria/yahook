@@ -1,5 +1,5 @@
 name = Yahook 
-description = module used to add/change behavior of other options.
+description = module used to add/change behavior of other options. in Views?.
 package = Views
 dependencies[] = views
 dependencies[] = entity
